@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Madhurjya8
 - 👀 I’m interested in Software Development jobs
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently learning Full Stack Web Development.
 - 💞️ I’m looking to collaborate on Web dev projects
 - 📫 How to reach me ...Email me madhurjya.saha@gmail.com
 
